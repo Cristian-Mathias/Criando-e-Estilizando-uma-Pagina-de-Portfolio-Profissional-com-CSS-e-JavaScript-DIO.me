@@ -1,0 +1,77 @@
+{
+  "name": "Cristian Mathias Francisco",
+  "photo": "https://avatars.githubusercontent.com/u/153240197?s=96&v=4",
+  "job": "Programador Web Junior | Estudante de Programação",
+  "location": "Santa Catarina - SC",
+  "phone": "(48) 9 9627-7996",
+  "email": "cristian11mathias@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": " "
+      },
+      {
+        "name": "React",
+        "logo": " "
+      },
+      {
+        "name": "Html",
+        "logo": " "
+      },
+      {
+        "name": "Css",
+        "logo": " "
+      },
+      {
+        "name": "GitHub",
+        "logo": " "
+      }
+      
+    ],
+    "softSkills": [
+      "Facilidade com tarefas práticas",
+      "Comunicação",
+      "Trabalho em Equipe",
+      "Comprometimento com resultados",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Cristian-Mathias/Construindo-Uma-Pokedex-Com-JavaScript-DIO.me",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Cristian-Mathias/Criando-Seu-Curriculo-Online-Com-HTML-e-GitHub-Pages-DIO.me",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação do primeiro framework em CSS bootstrap",
+      "url": "https://github.com/Cristian-Mathias/Primeiro-Framework-em-CSS-Bootstrap-DIO.me",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um layout responsivo para o site do Discord com CSS",
+      "url": "https://github.com/Cristian-Mathias/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS-DIO.me",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um clone do site da HBO-Max com animaôes em HTML e CSS",
+      "url": "https://github.com/Cristian-Mathias/Clonando-o-Site-da-HBO-Max-com-Anima-es-em-HTML-e-CSS-DIO.me",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Programador Web Junior | Estudante de Programação",
+      "period": "2023 - até o momento",
+      "description": "Profissional em transição de carreira.Tenho me dedicado aos estudos através de projetos e bootcamps com objetivo de aprimorar os meus conceitos básicos sobre lógica de programação, para contribuir de forma colaborativa no desenvolvimento Web."
+    }
+  ]
+}

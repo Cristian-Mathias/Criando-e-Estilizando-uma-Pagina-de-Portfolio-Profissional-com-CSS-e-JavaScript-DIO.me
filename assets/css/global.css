@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    /* background-color: #000; */
+    /*  background: linear-gradient(#e7714e, #cc4b33, #824533); */
+    /*  background: linear-gradient(#160604, #3d1a0d, #7f391a); */
+    /*  background: radial-gradient(circle, #160604, #7f391a); */
+    /* background: radial-gradient(circle, #160604, #7f391a 25%, #3d1a0d 75%, #160604); */
+    background: linear-gradient(#0d1218, #353c43, #434d4d, #676b68,#676b68, #434d4d,#353c43,#0d1218);
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #fff;
+    border-radius: .5rem;
+}
+
+/* .main::before,
+.main::after {
+    content: '';
+    background-image: url('../img/backgroundTop.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 140vw;
+    height: 100vh;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}
+
+.main::after {
+    content: '';
+    top: auto;
+    left: auto;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+} */
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+    /* .main::before {
+        width: 70vh;
+    }
+
+    .main::after {
+        width: 70vh;
+    } */
+}
