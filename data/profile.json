@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": " "
+        "logo": "https://raw.githubusercontent.com/Cristian-Mathias/Criando-e-Estilizando-uma-Pagina-de-Portfolio-Profissional-com-CSS-e-JavaScript-DIO.me/main/data/imgs/javaScript.png "
       },
       {
         "name": "React",
-        "logo": " "
+        "logo": "https://raw.githubusercontent.com/Cristian-Mathias/Criando-e-Estilizando-uma-Pagina-de-Portfolio-Profissional-com-CSS-e-JavaScript-DIO.me/main/data/imgs/react.png "
       },
       {
         "name": "Html",
-        "logo": " "
+        "logo": "https://raw.githubusercontent.com/Cristian-Mathias/Criando-e-Estilizando-uma-Pagina-de-Portfolio-Profissional-com-CSS-e-JavaScript-DIO.me/main/data/imgs/html.png "
       },
       {
         "name": "Css",
-        "logo": " "
+        "logo": "https://raw.githubusercontent.com/Cristian-Mathias/Criando-e-Estilizando-uma-Pagina-de-Portfolio-Profissional-com-CSS-e-JavaScript-DIO.me/main/data/imgs/css.png "
       },
       {
         "name": "GitHub",
-        "logo": " "
+        "logo": "https://raw.githubusercontent.com/Cristian-Mathias/Criando-e-Estilizando-uma-Pagina-de-Portfolio-Profissional-com-CSS-e-JavaScript-DIO.me/main/data/imgs/gitHub.png"
       }
       
     ],
